@@ -20,3 +20,5 @@ Add radius to every phyobject, so it is known how far out of bounds they must go
 Get ship to fire missile, which destroys asteroid of less than 10% hp and does chain reaction explosion based on destroyed asteroids max health to nearby asteroids.
 Maybe powerup can be destroyed like a bomb.
 replace hp-density with regular density?
+
+Gavin was here
